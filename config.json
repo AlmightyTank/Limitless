@@ -1,0 +1,7 @@
+{
+    "mode": "unlimited", 
+    "multiplier": 10,
+
+    "affectGlobalLimits": true,
+    "affectPersonalLimits": true 
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Limitless",
+  "version": "0.1.0",
+  "author": "AmightyTank",
+  "license": "MIT",
+  "main": "src/mod.js",
+  "sptVersion": "^3.11.x"
+}
