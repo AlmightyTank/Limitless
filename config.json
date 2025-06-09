@@ -1,7 +1,13 @@
 {
-    "mode": "unlimited", 
-    "multiplier": 10,
-
+  "modeType": "option2",
+  "option1": {
+    "mode": "multiply",
+    "multiplier": 5,
     "affectGlobalLimits": true,
-    "affectPersonalLimits": true 
+    "affectPersonalLimits": true
+  },
+  "option2": {
+    "removePersonalLimits": true,
+    "affectGlobalLimits": true
+  }
 }
